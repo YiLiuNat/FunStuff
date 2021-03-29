@@ -8,13 +8,13 @@
       <link href="2021/03/29/%E8%AE%B0%E4%B8%80%E4%BA%9BHexo%E7%9A%84%E5%91%BD%E4%BB%A4%E8%A1%8C%E8%AF%AD%E6%B3%95/"/>
       <url>2021/03/29/%E8%AE%B0%E4%B8%80%E4%BA%9BHexo%E7%9A%84%E5%91%BD%E4%BB%A4%E8%A1%8C%E8%AF%AD%E6%B3%95/</url>
       
-        <content type="html"><![CDATA[<p>发布新的文章<br>hexo n 文章标题</p><p>本地预览 随后在localhost:4000访问<br>hexo s 或 hexo server</p><p>生成并部署到github<br>hexo g 或 hexo generate<br>hexo d 或 hexo deploy</p>]]></content>
+        <content type="html"><![CDATA[<p><img src="https://haojen.github.io/Claudia-theme-blog/images/tree.png" alt="banner"></p><p>发布新的文章</p><p>hexo n 文章标题</p><p>本地预览 随后在localhost:4000访问<br>hexo s</p><p>生成并部署到github</p><p>hexo g 或 hexo generate<br>hexo d 或 hexo deploy</p>]]></content>
       
       
       
         <tags>
             
-            <tag> hexo， 语法 </tag>
+            <tag> hexo, 语法 </tag>
             
         </tags>
       
