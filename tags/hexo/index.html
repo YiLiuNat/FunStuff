@@ -5,6 +5,11 @@ hexo n 文章标题
 本地预览 随后在localhost:4000访问hexo s
 生成并部署到github
 hexo g 或 hexo generatehexo d 或 hexo deploy
+Hexo是如何与Github连接起来的？
+打开站点主目录下的_config.yml文件
+翻到最后deploy的部分 修改站点信息：
+
+随后安装git部署插件即可完成绑定npm install hexo-deployer-git –save
 </p><a class="button is-default mt-2 has-text-weight-semibold" href="/2021/03/29/%E8%AE%B0%E4%B8%80%E4%BA%9BHexo%E7%9A%84%E5%91%BD%E4%BB%A4%E8%A1%8C%E8%AF%AD%E6%B3%95/">Read more</a></section></article></section><aside class="column is-hidden-mobile is-4-tablet is-3-widescreen"><div style="position: sticky; top: 50px;"><main class="aside-card-container tag-widget is-in-tag-page"><h3>Tags</h3><section><a href="/tags/React"><span class="tag post-item-tag" style="margin-bottom: 5px;">React</span></a><a href="/tags/JavaScript"><span class="tag post-item-tag" style="margin-bottom: 5px;">JavaScript</span></a><a href="/tags/iScroll"><span class="tag post-item-tag" style="margin-bottom: 5px;">iScroll</span></a><a href="/tags/%E5%89%8D%E7%AB%AF"><span class="tag post-item-tag" style="margin-bottom: 5px;">前端</span></a><a href="/tags/hexo"><span class="tag post-item-tag" style="margin-bottom: 5px;">hexo</span></a><a href="/tags/%E8%AF%AD%E6%B3%95"><span class="tag post-item-tag" style="margin-bottom: 5px;">语法</span></a></section></main></div></aside></div></article><script>$claudia.fadeInImage(null, $claudia.blurBackdropImg)
 
 window.addEventListener('resize', $claudia.throttle(function () {
